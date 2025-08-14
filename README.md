@@ -1,44 +1,96 @@
+# 📊 Data Analytics Portfolio - R. Nagarjuna
 
-# R. Nagarjuna - Data Analyst Portfolio
-
-Welcome to my **Data Analytics Portfolio**! Here you can explore my projects, skills, and experience in data analysis.
-
-## About Me
-I am **R. Nagarjuna**, a passionate Data Analyst with expertise in **SQL, Python, Power BI, Excel, and Data Visualization**. I enjoy transforming raw data into actionable insights and creating dashboards that help businesses make data-driven decisions.
-
-## Portfolio
-Below are some of my key projects:
-
-1. **[Sales Performance Dashboard](https://github.com/RAVELLANAGARJUNA/Sales_Dashboard)**  
-   An interactive Power BI dashboard to monitor sales performance by region and product category.  
-   **Tools:** SQL, Python, Power BI  
-
-2. **[Retail Purchase Analysis](https://github.com/RAVELLANAGARJUNA/Retail_Purchase_Analysis)**  
-   Cleaned and analyzed retail purchase data to uncover customer behavior trends.  
-   **Tools:** Python, Pandas, Excel  
-
-3. **[Employee Attrition Analysis](https://github.com/RAVELLANAGARJUNA/Employee_Attrition_Analysis)**  
-   Analyzed HR data to identify factors affecting employee attrition and retention.  
-   **Tools:** Python, Power BI, Excel  
-
-4. **[Healthcare Readmission Analysis](https://github.com/RAVELLANAGARJUNA/Healthcare_Readmission_Analysis)**  
-   Predicted hospital readmissions to help reduce them and improve patient care.  
-   **Tools:** Python, SQL, Power BI  
-
-## Skills
-- SQL, Python, Power BI, Excel  
-- Data Cleaning, Analysis, Visualization  
-- Dashboard Creation, Data Storytelling  
-
-## Resume
-Download my resume here: [R_Nagarjuna_Resume.pdf](R_Nagarjuna_Resume.pdf)
-
-## Contact
-- **Email:** arjunravella108@gmail.com  
-- **Phone:** +91 7095740732  
-- **LinkedIn:** [https://www.linkedin.com/in/R-Nagarjuna](https://www.linkedin.com/in/R-Nagarjuna)
+Welcome to my **Data Analytics Portfolio**!  
+Here you’ll find my end-to-end projects showcasing skills in **SQL, Python, Power BI, and Excel**, solving real-world business problems with data-driven insights.
 
 ---
 
-*This repository hosts my personal portfolio website built using HTML, CSS (Tailwind), and GitHub Pages.*
+## 🚀 Projects
 
+### 1️⃣ [Customer Churn Analysis](https://github.com/RAVELLANAGARJUNA/CustomerChurnData)
+**Tools & Skills:** Python (Pandas, NumPy, Matplotlib, Seaborn), Machine Learning (Logistic Regression, Random Forest)  
+**Highlights:**
+- Analyzed telecom customer data to identify churn patterns.
+- Built predictive models to classify high-risk customers.
+- Suggested actionable retention strategies.
+  
+**Screenshot:**  
+![Customer Churn Analysis](CustomerChurnData.png)
+
+---
+
+### 2️⃣ [Retail Sales Data Analysis](https://github.com/RAVELLANAGARJUNA/RetailSalesData)
+**Tools & Skills:** Python (Pandas, Matplotlib, Seaborn), Power BI  
+**Highlights:**
+- Cleaned and transformed sales data for analysis.
+- Created visualizations to track sales trends and top products.
+- Generated insights to optimize stock and marketing.
+
+**Screenshot:**  
+![Retail Sales Analysis](RetailSalesData.png)
+
+---
+
+### 3️⃣ [E-Commerce SQL Project](https://github.com/RAVELLANAGARJUNA/E-CommerceCustomerData)
+**Tools & Skills:** MySQL, SQL Joins, Subqueries, Window Functions  
+**Highlights:**
+- Designed intermediate to advanced SQL queries for sales insights.
+- Analyzed customer behavior, top-selling products, and revenue trends.
+- Provided business recommendations for better inventory planning.
+
+
+---
+
+### 4️⃣ [Country Data Power BI Dashboard](https://github.com/RAVELLANAGARJUNA/CountryData_PowerBI_Project)
+**Tools & Skills:** Power BI, Data Modeling, DAX  
+**Highlights:**
+- Created an interactive dashboard for population, GDP, and life expectancy trends.
+- Used slicers and filters for country/continent-level analysis.
+- Designed professional and user-friendly reports.
+
+**Screenshot:**  
+![Country Data Dashboard](country_dashboard.png)
+
+---
+
+### 5️⃣ [Employee Attrition Analysis](https://github.com/RAVELLANAGARJUNA/Employee-Attrition-Analysis)
+**Tools & Skills:** Python, Power BI, SQL  
+**Highlights:**
+- Studied HR data to uncover key factors behind employee turnover.
+- Built attrition prediction models.
+- Designed an HR dashboard with attrition KPIs and demographic breakdowns.
+
+**Screenshot:**  
+![Employee Attrition](Employee_Attrition_Dashboard.png)
+
+---
+
+### 6️⃣ [Sales Performance Dashboard](https://github.com/RAVELLANAGARJUNA/Sales_Dashboard)
+**Tools & Skills:** Power BI, DAX, Data Cleaning  
+**Highlights:**
+- Built a sales performance dashboard with region, product, and category analysis.
+- Used KPIs to track sales revenue and trends.
+- Connected data sources and applied transformations.
+
+**Screenshot:**  
+![Sales Dashboard](sales_dashboard.png)
+
+---
+
+## 📂 Skills Summary
+- **Data Analysis Tools:** Python, SQL, Power BI, Excel  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Database:** MySQL  
+- **Data Visualization:** Power BI Dashboards, KPI Cards, Interactive Filters  
+- **Data Wrangling:** Cleaning, Transformation, Aggregation  
+- **Analytics:** Exploratory Data Analysis (EDA), Business Insights, Predictive Modeling
+
+---
+
+## 📬 Contact
+- **Name:** R. Nagarjuna  
+- **Email:** arjunravella108@gmail.com  
+- **LinkedIn:** [linkedin.com/in/R-Nagarjuna](https://www.linkedin.com/in/R-Nagarjuna)  
+- **Portfolio Website:** [ravellanagarjuna.github.io/Portfolio](https://ravellanagarjuna.github.io/Portfolio)
+
+---
