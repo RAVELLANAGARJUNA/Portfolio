@@ -5,6 +5,11 @@ Here you’ll find my end-to-end projects showcasing skills in **SQL, Python, Po
 
 ---
 
+## 📄 Resume
+📥 **Download:** [R_Nagarjuna_Resume.pdf](R_Nagarjuna_Resume.pdf)
+
+---
+
 ## 🚀 Projects
 
 ### 1️⃣ [Customer Churn Analysis](https://github.com/RAVELLANAGARJUNA/CustomerChurnData)
@@ -37,7 +42,6 @@ Here you’ll find my end-to-end projects showcasing skills in **SQL, Python, Po
 - Designed intermediate to advanced SQL queries for sales insights.
 - Analyzed customer behavior, top-selling products, and revenue trends.
 - Provided business recommendations for better inventory planning.
-
 
 ---
 
@@ -92,5 +96,3 @@ Here you’ll find my end-to-end projects showcasing skills in **SQL, Python, Po
 - **Email:** arjunravella108@gmail.com  
 - **LinkedIn:** [linkedin.com/in/R-Nagarjuna](https://www.linkedin.com/in/R-Nagarjuna)  
 - **Portfolio Website:** [ravellanagarjuna.github.io/Portfolio](https://ravellanagarjuna.github.io/Portfolio)
-
----
